@@ -2,7 +2,7 @@
 [![coverage report](https://gitlab.com/hmajid2301/personal-site/badges/master/coverage.svg)](https://gitlab.com/hmajid2301/personal-site/commits/master)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a9f5a378-240a-4f9e-a6ea-32a2db54d30f/deploy-status)](https://app.netlify.com/sites/inspiring-tesla-e1acd1/deploys)
 [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/b2e6b2bc/personal-site)
-
+ 
 - [🎉 Introduction](#-introduction)
 - [✨ Development](#-development)
   - [⛑️ Linting](#️-linting)
