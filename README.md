@@ -33,7 +33,7 @@
 
 ## 🎉 Introduction
 
-This is my [personal portfolio](https://haseebmajid.dev) site is built using [Gatsby](https://gatsbyjs.org).
+This is a [portfolio](https://haseebmajid.dev) site using [Gatsby](https://gatsbyjs.org).
 The app uses the following technologies and libraries:
 
 - Gatsby
